@@ -1,8 +1,8 @@
 class Tunisia < Formula
   desc "A Carthage cache dependant on Swift, Xcode and library version."
   homepage "https://github.com/minuscorp/Tunisia"
-  url "https://github.com/minuscorp/Tunisia/archive/v0.0.4.tar.gz"
-  sha256 "c7c793df89f4e56deb4f4af3c3caa6b3b4b648d42b5b9fee11a8df6332491612"
+  url "https://github.com/minuscorp/Tunisia/archive/v0.0.5.tar.gz"
+  sha256 "d1e7d5e22ac7908f45a648995d7b07118d5ca8355f26a95dc38f7e6bfb1e03af"
 
   depends_on xcode: ["11.2", :build, :test]
 
